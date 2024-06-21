@@ -92,7 +92,7 @@ perror("directory get :");
 continue;
 }
 input[strcspn(input,"\n")]='\0';
-if(strncmp(input,"pushd",6)==0)
+if(strncmp(input,"pushd",5)==0)
 {
 char *dir = input +6;
 pushd(dir);
