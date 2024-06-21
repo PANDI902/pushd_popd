@@ -1,4 +1,4 @@
-**Follow below steps**
+**Follow the below steps**
 Download the file on your Linux system.
 Open the terminal.
 Enter the file name and press Enter.
